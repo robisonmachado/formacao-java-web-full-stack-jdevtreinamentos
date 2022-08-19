@@ -98,3 +98,13 @@ Módulo 4: Conhecendo o Java e o seu poder
 
 <br>
 
+
+Módulo 5: Conhecendo a IDE Eclipse
+|AULA                                                                   | STATUS| DATA  |
+|---                                                                    |---    |:--:|
+|IDE vs Editor															|OK     |2022-08-19|
+|Download do Eclipse													|OK     |2022-08-19|
+|Instalando e conhecendo o Eclipse										|OK     |2022-08-19|
+
+
+<br>
