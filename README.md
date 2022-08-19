@@ -76,3 +76,25 @@ Módulo 3: Português estruturado e algoritmos
 
 <br>
 
+
+Módulo 4: Conhecendo o Java e o seu poder
+|AULA                                                                   | STATUS| DATA  |
+|---                                                                    |---    |:--:|
+|O que é a plataforma e linguagem Java 									|OK     |-      |
+|Quais são as características do Java? 									|OK     |-      |
+|Benefício da JVM do Java 												|OK     |-      |
+|A vantagem de ser multiplataforma										|OK     |-      |
+|JVM vs JRE vs JDK quais as diferencas									|OK     |-      |
+|Verificando a instalação do Java no sistema							|OK     |-      |
+|Download do JDK oficial da Oracle - Parte 1 							|OK     |-      |
+|Download do JDK oficial da Oracle - Parte 2 							|OK     |-      |
+|Atenção para as diferenças de versões									|OK     |-      |
+|Instalação do Java e JDK no Windows 									|OK     |-      |
+|Configurando variáveis de ambiente no Windows							|OK     |-      |
+|VARIÁVEL EXTRA - Java versão 10, 11, 12 e 13 ou Superior				|OK     |2022-08-18|
+|Criando e compilando nosso primeiro programa 							|OK     |2022-08-18|
+|API e documentação do Java 											|OK     |2022-08-18|
+
+
+<br>
+
