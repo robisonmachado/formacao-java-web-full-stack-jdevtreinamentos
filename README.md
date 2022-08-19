@@ -53,3 +53,26 @@ Módulo 2: Lógica de programação e algoritoms
 
 
 <br>
+
+
+Módulo 3: Português estruturado e algoritmos
+|AULA                                                                   | STATUS| DATA  |
+|---                                                                    |---    |:--:|
+|Definição do portugol e algoritmos										|OK     |-      |
+|Visual 3G para Portugol												|OK     |-      |
+|Conhecendo o VisualG													|OK     |-      |
+|Nosso primeiro algoritmo em portugol									|OK     |-      |
+|Entrada de dados e leitura												|OK     |-      |
+|Calculando a média de notas 											|OK     |-      |
+|Condições aninhadas das notas 											|OK     |-      |
+|Estrutura de condição CASE												|OK     |-      |
+|Estrutura simples de repetição crescente								|OK     |-      |
+|Estrutura simples de repetição decrescente								|OK     |-      |
+|Estrutura de repetição ENQUANTO (WHILE)								|OK     |-      |
+|Estrutura de repetição REPITA											|OK     |-      |
+|Estrutura de repetição e INTERRUPÇÃO									|OK     |-      |
+|Livro PDF de Lógica e Algoritmos										|OK     |-      |
+
+
+<br>
+
