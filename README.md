@@ -1,4 +1,4 @@
-# formacao-java-web-full-stack-jdevtreinamentos
+# Formacao Java Web Full-Stack (jdevtreinamentos)
 
 repositório para acompanhamento e anotações da Formação Java Web Full-Stack
 <br>
@@ -23,6 +23,33 @@ Módulo 1: Projetos e a história do Java
 |Explicação do uso da plataforma EAD 									|OK     |-      |
 |Como obter os certificados e corrigir o progresso 						|OK     |-      |
 |Como funciona o suporte 												|OK     |-      |
+
+
+<br>
+
+
+Módulo 2: Lógica de programação e algoritoms
+|AULA                                                                   | STATUS| DATA  |
+|---                                                                    |---    |:--:|
+|Introdução a lógica de programação										|OK     |-      |
+|Sequencia Lógica														|OK     |-      |
+|Algoritmos																|OK     |-      |
+|O que são programas de computador?										|OK     |-      |
+|Pseudocódigos															|OK     |-      |
+|Diagrama de Bloco														|OK     |-      |
+|Simbologia Diagrama de Bloco											|OK     |-      |
+|Exemplo diagrama de Bloco												|OK     |-      |
+|O que são constantes													|OK     |-      |
+|O que são variáveis													|OK     |-      |
+|Operadores Aritméticos													|OK     |-      |
+|Operadores relacionais													|OK     |-      |
+|Operadores lógicos														|OK     |-      |
+|Estrutura de decisão - Parte 1 										|OK     |-      |
+|Estrutura de decisão - Parte 2 										|OK     |-      |
+|Estrutura de decisão CASE												|OK     |-      |
+|Estruturas de repetição												|OK     |-      |
+|O que é sintaxe de código 												|OK     |-      |
+|O que é Semântica do código 											|OK     |-      |
 
 
 <br>
