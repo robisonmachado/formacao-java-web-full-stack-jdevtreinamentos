@@ -105,6 +105,21 @@ Módulo 5: Conhecendo a IDE Eclipse
 |IDE vs Editor															|OK     |2022-08-19|
 |Download do Eclipse													|OK     |2022-08-19|
 |Instalando e conhecendo o Eclipse										|OK     |2022-08-19|
+|Criando nosso primeiro projeto Java 									|OK     |2022-08-22|
+|Conhecendo uma classe em Java 											|OK     |2022-08-22|
+|Nosso programa rodando no Eclipse										|OK     |2022-08-23|
+|Aumentando fonte do editor de código 									|OK     |2022-08-23|
+
+
+<br>
+
+
+Módulo 6: GitHub versionamento de código
+|AULA                                                                   | STATUS| DATA  |
+|---                                                                    |---    |:--:|
+|Introdução ao GitHub													|OK     |2022-08-23|
+
+
 
 
 <br>
