@@ -118,6 +118,9 @@ Módulo 6: GitHub versionamento de código
 |AULA                                                                   | STATUS| DATA  |
 |---                                                                    |---    |:--:|
 |Introdução ao GitHub													|OK     |2022-08-23|
+|Comandos mais utilizados												|OK     |2022-08-23|
+|Cadastro inicial e criação do Repositório								|OK     |2022-08-23|
+|Adicionando projeto no GitHub											|OK     |2022-08-24|
 
 
 
